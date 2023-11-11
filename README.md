@@ -1,13 +1,13 @@
-<h1 align="center">Hello , Here is Lionel TOTON</h1>
+<h1 align="center">Hello 😉, Here is Lionel TOTON</h1>
 <h3 align="center">A very passionate software engineer from Benin</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adebsa2401&label=Profile%20views&color=0e75b6&style=flat" alt="adebsa2401" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AInelo965&label=Profile%20views&color=0e75b6&style=flat" alt="AInelo965" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adebsa2401" alt="adebsa2401" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AInelo965" alt="AInelo965" /></a> </p>
 
 - 🔭 I’m currently enrolled in [Microverse Software engineer program](https://www.microverse.org)
 
-- 🌱 I’m currently learning **React Native, Django and Django Rest Framework**
+- 🌱 I’m currently learning **React Native, Django and Angular Framework**
 
 - 👯 I’m looking to collaborate on **Node JS, Python, PHP, REACT Js ,NextJS projects**
 

@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I all discussion about AI, Music also**
 
-<h3 href="https://wa.me/22996769716" align="left">Connect with me 🫡:</h3>
+<a href="https://wa.me/22996769716"> <h3 href="https://wa.me/22996769716" align="left">Connect with me 🫡:</h3> </a> 
 <p align="left">
 </p>
 

@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AInelo965" alt="AInelo965" /></a> </p>
 
-- 🔭 I’m currently enrolled in [Microverse Software engineer program](https://www.microverse.org)
-
-- 🌱 I’m currently learning **React Native, Django and Angular Framework**
+- 🌱 I’m currently learning **React Native, Next Js and Angular Framework**
 
 - 👯 I’m looking to collaborate on **Node JS, Python, PHP, REACT Js ,NextJS projects**
 

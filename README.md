@@ -135,7 +135,7 @@
             height="40" /> 
     </a> 
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-        <img src="https://cdn-lfs.huggingface.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1723067686&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzA2NzY4Nn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzk0MmNhZDFjY2RhOTA1YWM1YTY1OWRmZDJkNzhiMzQ0ZmNjZmI4NGE4YTNhYzM3MjFlMDhmNDg4MjA1NjM4YTA%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=lwz6vzB6PVMTVpVdTabl8dvlmGYBHkuCRDdMhXrmov8vpGCMI13XlAjFk8ovvEXrhU565x4JPgXAWD1n6K3JyPzPxZBwmBAe7%7EtlsHiwGNdO2VQsoNZELkATp3R0J7yFhvmWVMhY4CQXPPtCBt9L%7EIkcULCCh1epH73Kb8oqlQZeFt7oLzgpm75yb%7EUaR0MzIU6s63JevWaB8NaHB-F2k9LYPH1agT1vCqlg6x9-rArpFp6QDTpzoLMJRU5bF0d%7EqRi1nhjPEUOZTydREpvjuuCUGWO7FFxo%7EQOXqkHu5%7E3S0Vw27vQ7vWWs6eu5ngxsK8GpcDvTrVpbbB4nXYAgGQ__&Key-Pair-Id=K3ESJI6DHPFC7" alt="Hugging Face" width="40" height="40" />
+        <img src="https://seekvectorlogo.net/wp-content/uploads/2023/03/hugging-face-vector-logo.png" alt="Hugging Face" width="40" height="40" />
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
         <img

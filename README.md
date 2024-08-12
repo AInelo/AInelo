@@ -135,7 +135,7 @@
             height="40" /> 
     </a> 
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-        <img src="https://seekvectorlogo.net/wp-content/uploads/2023/03/hugging-face-vector-logo.png" alt="Hugging Face" width="40" height="40" />
+        <img src="https://seekvectorlogo.net/wp-content/uploads/2023/03/hugging-face-vector-logo.png](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="40" height="40" />
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
         <img

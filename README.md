@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Next Js and React Js Framework**
 
-- 👯 I’m looking to collaborate on **Node JS, Python, PHP, REACT Js ,NextJS projects on Web and Mobile Dev**
+- 👯 I’m looking to collaborate on **Node JS, Python, PHP, REACT Js + TypeScript ,NextJS projects on Web and Mobile Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AInelo?tab=repositories](https://github.com/AInelo?tab=repositories)
 
